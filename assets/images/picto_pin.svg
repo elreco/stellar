@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.207" height="16.207" viewBox="0 0 13.207 16.207">
+  <g id="picto_pin" transform="translate(0.5 0.5)">
+    <path id="Path" d="M5.5,15S0,10,0,5.5a5.5,5.5,0,0,1,11,0,6.883,6.883,0,0,1-.322,2" transform="translate(0 0)" fill="none" stroke="#111" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="Oval" cx="1.5" cy="1.5" r="1.5" stroke-width="1" transform="translate(4 4)" stroke="#111" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <path id="Path-2" data-name="Path" d="M0,2,2,4,6,0" transform="translate(6 9)" fill="none" stroke="#111" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

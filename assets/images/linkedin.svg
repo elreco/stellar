@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="30" viewBox="0 0 31 30">
+  <g id="linkedin" transform="translate(0.43)">
+    <ellipse id="Oval_Copy_18" data-name="Oval Copy 18" cx="15.5" cy="15" rx="15.5" ry="15" transform="translate(-0.43)" fill="#29e7b5"/>
+    <g id="Groupe_8628" data-name="Groupe 8628" transform="translate(7.378 7.405)">
+      <g id="Groupe_8627" data-name="Groupe 8627" transform="translate(0 0)">
+        <rect id="Rectangle_1660" data-name="Rectangle 1660" width="3.355" height="10.076" transform="translate(0.193 4.86)" fill="#fff"/>
+        <path id="Tracé_28101" data-name="Tracé 28101" d="M160.758,140.485a3.611,3.611,0,0,0-2.8-1.154,4.029,4.029,0,0,0-1.164.158,2.642,2.642,0,0,0-.885.442,3.788,3.788,0,0,0-.971,1.067v-1.433H151.6l.01.488q.01.488.01,3.01t-.02,6.578h3.345v-5.623a2.456,2.456,0,0,1,.112-.824,2.16,2.16,0,0,1,.646-.869,1.646,1.646,0,0,1,1.073-.351,1.447,1.447,0,0,1,1.286.6,2.942,2.942,0,0,1,.412,1.673v5.389h3.345v-5.775A4.841,4.841,0,0,0,160.758,140.485Z" transform="translate(-146.188 -134.705)" fill="#fff"/>
+        <path id="Tracé_28102" data-name="Tracé 28102" d="M1.891,9.708A1.914,1.914,0,0,0,.524,10.2,1.637,1.637,0,0,0,0,11.447a1.666,1.666,0,0,0,.508,1.24,1.835,1.835,0,0,0,1.342.5h.02a1.916,1.916,0,0,0,1.378-.5,1.61,1.61,0,0,0,.513-1.24A1.7,1.7,0,0,0,3.243,10.2,1.859,1.859,0,0,0,1.891,9.708Z" transform="translate(0 -9.708)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
